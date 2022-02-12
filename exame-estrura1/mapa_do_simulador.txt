@@ -1,0 +1,28 @@
+Estado da simulação 12/2/2022 2:21:42 :
+
+Casa ziCldxq ____________ Casa ytK
+Casa ziCldxq ____________ Casa ziCldxq
+Casa ziCldxq ____________ Casa ziCldxq
+Casa ziCldxq ____________ Casa ptj
+
+Casa ziCldxq ______________ Mosquito jACr 
+Casa ziCldxq ______________ Mosquito kvEw 
+Casa ziCldxq ______________ Mosquito vaCz 
+Casa ziCldxq ______________ Mosquito tAAt 
+Casa ziCldxq ______________ Mosquito cGJe 
+Casa ziCldxq ______________ Mosquito veio 
+
+Casa ytK ____________ Casa ziCldxq
+Casa ytK ____________ Casa ytK
+Casa ytK ____________ Casa ytK
+Casa ytK ____________ Casa ptj
+
+Casa ytK ______________ Mosquito pJHd 
+Casa ytK ______________ Mosquito ldxq 
+
+Casa ptj ____________ Casa ptj
+Casa ptj ____________ Casa ptj
+Casa ptj ____________ Casa ziCldxq
+Casa ptj ____________ Casa ytK
+
+Casa ptj sem mosquito!

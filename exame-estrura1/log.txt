@@ -1,0 +1,1 @@
+Total de mosquito ao iniciar simulacao: 8 
